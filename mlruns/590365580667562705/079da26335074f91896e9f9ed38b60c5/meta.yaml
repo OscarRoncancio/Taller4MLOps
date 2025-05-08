@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Taller4MLOps/Taller4MLOps/mlruns/079da26335074f91896e9f9ed38b60c5/artifacts
+end_time: 1746748780430
+entry_point_name: ''
+experiment_id: '590365580667562705'
+lifecycle_stage: active
+run_id: 079da26335074f91896e9f9ed38b60c5
+run_name: mercurial-seal-943
+run_uuid: 079da26335074f91896e9f9ed38b60c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746748777518
+status: 3
+tags: []
+user_id: runner
